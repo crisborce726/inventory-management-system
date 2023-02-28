@@ -1,0 +1,192 @@
+.skin-blue-light.main-header{box-shadow:0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06)}
+
+/*Navbar Middle Part*/
+.skin-blue-light .main-header .navbar{background-color:#000000}
+
+/*Right Side Name*/
+.skin-blue-light .main-header .navbar .nav>li>a{color:rgb(255, 255, 255)}
+
+
+/*Right Side Image and Name*/
+/*Background - Text Color Hover*/
+.skin-blue-light
+.main-header
+.navbar
+.nav>li>a:hover,
+.skin-blue-light
+.main-header 
+.navbar 
+.nav>li>a:active,
+.skin-blue-light 
+.main-header 
+.navbar 
+.nav>li>a:focus,
+.skin-blue-light 
+.main-header 
+.navbar 
+.nav 
+.open>a,.skin-blue-light 
+.main-header 
+.navbar 
+.nav 
+.open>a:hover,
+.skin-blue-light 
+.main-header 
+.navbar 
+.nav 
+.open>a:focus,
+.skin-blue-light 
+.main-header 
+.navbar 
+.nav>.active>a{background:#5a5a5b;color:#f6f6f6}
+
+.skin-blue-light
+.main-header
+.navbar
+.sidebar-toggle{color:#fff}
+
+.skin-blue-light
+.main-header
+.navbar 
+.sidebar-toggle:hover{color:#f6f6f6;background:rgba(255, 255, 255, 0.1)}
+
+/*Toggle Color*/
+.skin-blue-light
+.main-header
+.navbar 
+.sidebar-toggle{color:rgb(255, 0, 0)}
+
+/*Toggle Hover Color*/
+.skin-blue-light
+.main-header
+.navbar
+.sidebar-toggle:hover{background-color:#5a5a5b}
+
+@media (max-width:767px)
+{
+    .skin-blue-light
+    .main-header
+    .navbar
+    .dropdown-menu li.divider{background-color:rgba(255,255,255,0.1)}
+    
+    .skin-blue-light
+    .main-header
+    .navbar
+    .dropdown-menu li a{color:#fff}
+    
+    .skin-blue-light 
+    .main-header 
+    .navbar 
+    .dropdown-menu li a:hover{background:#2a99f4}}
+    
+    /*Left Side Logo and System Name*/
+    .skin-blue-light 
+    .main-header 
+    .logo{background-color:#000000;color:#fff;border-bottom:0 solid transparent}
+    
+    /*Left Side Logo and System Name Hover*/
+    .skin-blue-light 
+    .main-header 
+    .logo:hover{background-color:#000000}
+
+    .user-panel
+    {
+        margin-bottom: 10px;
+    }
+    
+    /*Right Side User Header Background*/
+    .skin-blue-light
+    .main-header li.user-header{background-color:#8e8e8f}
+    
+    .skin-blue-light 
+    .content-header{background:transparent}
+    
+    /*Page Background*/
+    .skin-blue-light 
+    .wrapper,
+    .skin-blue-light 
+    .main-sidebar,
+    .skin-blue-light 
+    .left-side
+    {
+        background-color:#000000;
+    }
+    
+    /*Side Bar Border Color*/
+    .skin-blue-light
+    .main-sidebar
+    {
+        border-right:1px solid #000000
+    }
+    
+   
+    
+    .skin-blue-light
+    .sidebar-menu>li
+    {
+        -webkit-transition:border-left-color .3s ease;
+        -o-transition:border-left-color .3s ease;
+        transition:border-left-color .3s ease}
+    
+    /*Navigation Caption Background Color and Text Color*/
+    .skin-blue-light
+    .sidebar-menu>li.header
+    {
+        color:#ffffff;
+        background:#ff0000;
+        margin-bottom: 10px;
+    }
+    
+    .skin-blue-light
+    .sidebar-menu>li>a
+    {
+        border-left:3px solid transparent;
+        font-weight:600;
+    }
+    
+    /*Sidebar Hover Color*/
+    .skin-blue-light
+    .sidebar-menu>a,
+    .skin-blue-light 
+    .sidebar-menu>li.active>a
+    {
+        color:#000;
+        background:#ff0000
+    }
+
+    
+    .skin-blue-light 
+    .sidebar-form
+    {
+        border-radius:3px;
+        border:1px solid #d2d6de;
+        margin:10px 10px
+    }
+    
+    
+    .skin-blue-light 
+    .sidebar-form 
+    .btn
+    {
+        color:#999;border-top-left-radius:0;
+        border-top-right-radius:2px
+        ;border-bottom-right-radius:
+        2px;border-bottom-left-radius:0
+    }
+    
+    @media (min-width:768px)
+    {
+        .skin-blue-light
+        .sidebar-mini.sidebar-collapse 
+        .sidebar-menu>li>.treeview-menu{border-left:1px solid #d2d6de}}
+        
+        .skin-blue-light 
+        .main-footer{border-top-color:#d2d6de}
+        
+        .skin-blue
+        .layout-top-nav 
+        .main-header>.logo{background-color:#42a5f5;color:#fff;border-bottom:0 solid transparent}
+        
+        .skin-blue
+        .layout-top-nav 
+        .main-header>.logo:hover{background-color:#3da3f5}
